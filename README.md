@@ -5,7 +5,7 @@ Currently focused on learning the fundamentals and building small projects as I 
 
 ---
 
-### 📚 What I'm Learning
+### 📚 What I'm Learning now...
 
 - 🌐 **HTML & CSS** – Building and styling web pages
 - ⚙️ **JavaScript** – Making web pages interactive
@@ -18,14 +18,6 @@ Currently focused on learning the fundamentals and building small projects as I 
 - Build my first full website from scratch
 - Understand core programming concepts
 - Start contributing to beginner-friendly open source projects
-
----
-
-### 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=blueberry" />
-</p>
 
 ---
 
