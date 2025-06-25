@@ -8,7 +8,6 @@ Currently focused on learning the fundamentals and building small projects as I 
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" alt="Learning to code gif" />
 </p>
 
----
 
 ### 📚 What I'm Learning now...
 
@@ -16,7 +15,7 @@ Currently focused on learning the fundamentals and building small projects as I 
 - ⚙️ **JavaScript** – Making web pages interactive
 - 🐍 **Python** – Learning programming basics and solving problems
 - 🛠️ **Git & GitHub** – Managing code and collaborating
----
+
 
 ### 💡 Goals
 
@@ -24,7 +23,6 @@ Currently focused on learning the fundamentals and building small projects as I 
 - Understand core programming concepts
 - Start contributing to beginner-friendly open source projects
 
----
 
 ### 🌐 Let's Connect
 
