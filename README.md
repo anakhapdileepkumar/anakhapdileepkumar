@@ -26,14 +26,6 @@ Currently focused on learning the fundamentals and building small projects as I 
 
 ---
 
-### 🧰 Tools & Technologies
-
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,github,vscode" />
-</p>
-
----
-
 ### 📈 GitHub Stats
 
 <p align="center">
