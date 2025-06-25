@@ -37,17 +37,12 @@ Currently focused on learning the fundamentals and building small projects as I 
 ### 🌐 Let's Connect
 
 <p>
-  <a href="mailto:youremail@example.com">
+  <a href="mailto:anakhapdileep20@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://linkedin.com/in/yourusername">
+  <a href="https://linkedin.com/in/anakhapdileepkumar">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
 
 ---
-
-<!-- Footer -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6a11cb,100:2575fc&height=100&section=footer" />
-</p>
