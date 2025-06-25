@@ -1,8 +1,3 @@
-<!-- Header Banner -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6a11cb,100:2575fc&height=200&section=header&text=Welcome%20to%20My%20GitHub!&fontSize=35&fontColor=ffffff" />
-</p>
-
 ### 👋 Hello!
 
 I'm a tech enthusiast and beginner in coding, excited to explore the world of software development.  
@@ -40,7 +35,9 @@ Currently focused on learning the fundamentals and building small projects as I 
   <a href="mailto:anakhapdileep20@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://linkedin.com/in/anakhapdileepkumar">
+  <a href="www.linkedin.com/in/anakha-p-dileepkumar
+
+">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
