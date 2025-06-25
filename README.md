@@ -1,16 +1,61 @@
-## Hi there 👋
+<!-- Header Banner -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6a11cb,100:2575fc&height=200&section=header&text=Welcome%20to%20My%20GitHub!&fontSize=35&fontColor=ffffff" />
+</p>
 
-<!--
-**anakhapdileepkumar/anakhapdileepkumar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 👋 Hello!
 
-Here are some ideas to get you started:
+I'm a tech enthusiast and beginner in coding, excited to explore the world of software development.  
+Currently focused on learning the fundamentals and building small projects as I grow.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 📚 What I'm Learning
+
+- 🌐 **HTML & CSS** – Building and styling web pages
+- ⚙️ **JavaScript** – Making web pages interactive
+- 🐍 **Python** – Learning programming basics and solving problems
+- 🛠️ **Git & GitHub** – Managing code and collaborating
+---
+
+### 💡 Goals
+
+- Build my first full website from scratch
+- Understand core programming concepts
+- Start contributing to beginner-friendly open source projects
+
+---
+
+### 🧰 Tools & Technologies
+
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,github,vscode" />
+</p>
+
+---
+
+### 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=blueberry" />
+</p>
+
+---
+
+### 🌐 Let's Connect
+
+<p>
+  <a href="mailto:youremail@example.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://linkedin.com/in/yourusername">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</p>
+
+---
+
+<!-- Footer -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6a11cb,100:2575fc&height=100&section=footer" />
+</p>
