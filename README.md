@@ -35,9 +35,7 @@ Currently focused on learning the fundamentals and building small projects as I 
   <a href="mailto:anakhapdileep20@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="www.linkedin.com/in/anakha-p-dileepkumar
-
-">
+  <a href="www.linkedin.com/in/anakha-p-dileepkumar">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
