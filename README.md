@@ -9,19 +9,11 @@ Currently focused on learning the fundamentals and building small projects as I 
 </p>
 
 
-### 📚 What I'm Learning now...
-
-- 🌐 **HTML & CSS** – Building and styling web pages
-- ⚙️ **JavaScript** – Making web pages interactive
-- 🐍 **Python** – Learning programming basics and solving problems
-- 🛠️ **Git & GitHub** – Managing code and collaborating
-
 
 ### 💡 Goals
 
 - Build my first full website from scratch
 - Understand core programming concepts
-- Start contributing to beginner-friendly open source projects
 
 
 ### 🌐 Let's Connect
