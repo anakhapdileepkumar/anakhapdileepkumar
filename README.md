@@ -1,25 +1,43 @@
 ### 👋 Hello!
 
-I'm a tech enthusiast and beginner in coding, excited to explore the world of software development.  
-Currently focused on learning the fundamentals and building small projects as I grow.
+I'm a B.Tech ECE student interested in Embedded Systems, IoT, AI, and Web Development.  
+I enjoy building real-world projects that combine hardware, software, and intelligent systems.
 
-<!-- Animated GIF -->
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" alt="Learning to code gif" />
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" alt="Coding gif" />
 </p>
 
+---
 
+### 🚀 Projects
 
-### 💡 Goals
+- 🔹 VenueFlow AI – Smart venue system for crowd navigation  
+- 🔹 Support Ticket Triage – OpenEnv API-based workflow simulation  
+- 🔹 Smart Medicine Reminder – IoT-based pillbox system  
+- 🔹 Hand Gesture Volume Control – Computer vision application  
 
-- Build my first full website from scratch
-- Understand core programming concepts
+---
 
+### 🛠️ Tech Stack
+
+- **Programming:** Python, C, JavaScript  
+- **Web:** HTML, CSS  
+- **IoT:** ESP32, Arduino  
+- **Libraries:** OpenCV, MediaPipe  
+
+---
+
+### 🌱 Currently Learning
+
+- AI/ML fundamentals  
+- Backend development  
+
+---
 
 ### 🌐 Let's Connect
 
 <p>
-  <a href="https://www.linkedin.com/in/anakha-p-dileepkumar/?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app">
+  <a href="https://www.linkedin.com/in/anakha-p-dileepkumar">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
